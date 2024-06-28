@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.pink-filter {
+    filter: invert(33%) sepia(100%) saturate(1300%) hue-rotate(-50deg) brightness(95%) contrast(85%);
+  }
+  
